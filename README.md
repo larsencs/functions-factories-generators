@@ -1,4 +1,4 @@
-## About The Journal
+## About The Project
 This was an assignment during coding bootcamp.
 
 ### Purpose
